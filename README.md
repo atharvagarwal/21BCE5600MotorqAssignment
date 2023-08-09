@@ -11,4 +11,6 @@ Backend (Node.js , mongoDB) (write the following commands on ther terminal)
 1.cd backend 2.npm install 3.node index.js
 
 Also the website has API DOCS made using SWAGGER at http://localhost:3001/docs/ (you can access it when you start the backend serer)
+
+
 To send mails and notifications we used the nodemailer npm package.
